@@ -23,8 +23,8 @@
 ---
 
 ## 🔗 Project Links
-* **GitHub Repository** 
-* **Digital Literacy Awareness Quiz (Google Form):** [https://forms.gle/your-unique-quiz-link](https://forms.gle/your-unique-quiz-link)
+* **GitHub Repository** https://github.com/vedikarajpali/digital-literacy-portfolio.git
+* **Digital Literacy Awareness Quiz (Google Form):** https://forms.gle/EvnGYBVttYjDMSU5A
 
 ---
 
