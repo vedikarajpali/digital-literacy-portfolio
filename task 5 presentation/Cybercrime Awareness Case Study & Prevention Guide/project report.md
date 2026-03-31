@@ -1,1 +1,4 @@
+Task 5: Cybercrime Awareness and Prevention
+While researching UPI fraud, what surprised me most was the psychological sophistication of "social engineering." It is rarely a technical hack; instead, it is a manipulation of trust and urgency. I was shocked to learn how many students fall for QR code scams simply because they do not realize that a PIN is never required to receive funds.
+As a result of this research, one habit I will personally change is my "click-reflex." I have committed to the "5-second rule"—pausing for five seconds to manually inspect the sender’s email address or the UPI ID before interacting with any digital request. This small change in behavior is the most effective firewall against modern cyber threats, and I intend to model this habit for my peers as their Digital Ambassador.
 
