@@ -1,1 +1,3 @@
-
+Task 4: Professional Communication and Ethics
+A notable situation where poor digital communication caused significant issues involves a hypothetical "Group Project Conflict" on a public Discord server. In this scenario, a student publicly blamed a teammate for a failed submission using aggressive language. This unprofessional outburst not only damaged the team’s relationship but was also seen by a faculty moderator, leading to a formal warning for the student.
+To handle this differently, the student should have adhered to the "Private Resolution" rule. They could have sent a professional, private message outlining the specific technical issues and suggested a meeting to resolve the bottleneck. This approach maintains professional integrity and follows the "Netiquette" standards expected of a VIT Bhopal student. Effective digital communication is not just about grammar; it is about choosing the right channel and tone for the situation.
